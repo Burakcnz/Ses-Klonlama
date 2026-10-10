@@ -1,0 +1,119 @@
+[
+  {
+    "id": "455f41cc7339",
+    "name": "uretim_225225",
+    "text_preview": "ses deneme 1! 2, 3.",
+    "duration_sec": 3.2,
+    "language": "tr",
+    "file": "result_455f41cc7339.wav",
+    "created_at": "2026-05-16T22:52:25"
+  },
+  {
+    "id": "95941d45dd2c",
+    "name": "uretim_222403",
+    "text_preview": "ses",
+    "duration_sec": 2.1,
+    "language": "tr",
+    "file": "result_95941d45dd2c.wav",
+    "created_at": "2026-05-16T22:24:03"
+  },
+  {
+    "id": "d513dc056eea",
+    "name": "uretim_221810",
+    "text_preview": "ses deneme 1! 2! 3!",
+    "duration_sec": 2.2,
+    "language": "tr",
+    "file": "result_d513dc056eea.wav",
+    "created_at": "2026-05-16T22:18:10"
+  },
+  {
+    "id": "6d439957d1cc",
+    "name": "uretim_221739",
+    "text_preview": "ses deneme 1 2 3",
+    "duration_sec": 4.3,
+    "language": "tr",
+    "file": "result_6d439957d1cc.wav",
+    "created_at": "2026-05-16T22:17:39"
+  },
+  {
+    "id": "c1e4a6261513",
+    "name": "uretim_212106",
+    "text_preview": "hepinizin amına koyayım",
+    "duration_sec": 1.7,
+    "language": "tr",
+    "file": "result_c1e4a6261513.wav",
+    "created_at": "2026-05-07T21:21:06"
+  },
+  {
+    "id": "153c32d9c353",
+    "name": "uretim_212057",
+    "text_preview": "hepinizin amına koyayım",
+    "duration_sec": 1.4,
+    "language": "tr",
+    "file": "result_153c32d9c353.wav",
+    "created_at": "2026-05-07T21:20:57"
+  },
+  {
+    "id": "c2be92ad4830",
+    "name": "uretim_211915",
+    "text_preview": "hepinizin amına koyayım",
+    "duration_sec": 1.6,
+    "language": "tr",
+    "file": "result_c2be92ad4830.wav",
+    "created_at": "2026-05-07T21:19:15"
+  },
+  {
+    "id": "59077619afc3",
+    "name": "uretim_190951",
+    "text_preview": "selam , ben burak",
+    "duration_sec": 1.6,
+    "language": "tr",
+    "file": "result_59077619afc3.wav",
+    "created_at": "2026-05-07T19:09:51"
+  },
+  {
+    "id": "5196c58ba881",
+    "name": "uretim_190941",
+    "text_preview": "selam , ben burak",
+    "duration_sec": 1.4,
+    "language": "tr",
+    "file": "result_5196c58ba881.wav",
+    "created_at": "2026-05-07T19:09:41"
+  },
+  {
+    "id": "df016357ff6c",
+    "name": "uretim_190935",
+    "text_preview": "selam , ben burak",
+    "duration_sec": 1.5,
+    "language": "tr",
+    "file": "result_df016357ff6c.wav",
+    "created_at": "2026-05-07T19:09:35"
+  },
+  {
+    "id": "a6e240232136",
+    "name": "uretim_190925",
+    "text_preview": "selam , ben burak",
+    "duration_sec": 1.3,
+    "language": "tr",
+    "file": "result_a6e240232136.wav",
+    "created_at": "2026-05-07T19:09:25"
+  },
+  {
+    "id": "c30919442455",
+    "name": "uretim_190912",
+    "text_preview": "selam , ben burak",
+    "duration_sec": 1.5,
+    "language": "tr",
+    "file": "result_c30919442455.wav",
+    "created_at": "2026-05-07T19:09:12"
+  },
+  {
+    "id": "19dbf53241a3",
+    "name": "uretim_190859",
+    "text_preview": "selam ben burak",
+    "duration_sec": 1.4,
+    "language": "tr",
+    "file": "result_19dbf53241a3.wav",
+    "created_at": "2026-05-07T19:08:59"
+  }
+]
